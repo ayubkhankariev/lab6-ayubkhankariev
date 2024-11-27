@@ -1,12 +1,17 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/4J8mXtke)
 # Lab 6 - IoT 2024
 
 ## Participants:
 
 ### Team N: 
 
-* Student 1: name,surname,id
-* Student 2: name,surname,id
-* etc...
+Student 1: Ayubxon,Koriev,se14329
+
+Student 2: Irodaxon,Ruziyeva,se13385
+
+Student 3: Golib,Torayev,se14146
+
+Student 4: Umar,Fayzullayev,se13385
 
 ![image](https://github.com/user-attachments/assets/9f94b187-9fac-4146-b95c-6dae9a4684d9)
 
